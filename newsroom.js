@@ -1,0 +1,1 @@
+console.log("News are important");
